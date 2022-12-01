@@ -1,0 +1,35 @@
+div{
+    border: 1px solid black;
+}
+
+.d1{
+    width: 4.35cm;
+    padding-left: 0.5cm;
+    padding-top: 0.1cm;
+    padding-bottom: 0.1cm;
+    position: absolute;
+    top: 2%;
+    right: 1%;
+}
+
+.d2{
+    width: 790px;
+    margin: 1%;
+}
+
+h1{
+    font-style: italic;
+}
+
+.ob{
+    height: 5cm;
+}
+
+td{
+    vertical-align: center;
+    text-align: center;
+}
+
+table{
+    margin: 1%;
+}
